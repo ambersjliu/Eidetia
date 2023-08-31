@@ -1,6 +1,7 @@
 Originally coded in May of 2023. You can see the devlog here: https://eidetia.blogspot.com/
 
 Eidetia is a 3D Unity maze game like any other–except it isn't, because in what other maze game do you have to fend off evil tomato-throwing bears by shining a flashlight on them?!
+
 Features:
 
 - A flashlight mechanic where the battery drains over time, affecting both brightness and damage output by the player
